@@ -21,7 +21,7 @@ h1 {
 footer {
     margin-top: 4rem;
     border-top: 0.1rem;
-    border-style: solid; 
+    border-top-style: solid; 
     border-color: slategrey;
     font-size: 0.8rem;
 }
